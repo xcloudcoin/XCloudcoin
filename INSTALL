@@ -1,0 +1,9 @@
+Building XCloudcoin
+
+See doc/readme-qt.rst for instructions on building XCloudcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of XCloudcoin.
+
+See doc/build-*.txt for instructions on building XCloudcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of XCloudcoin.
